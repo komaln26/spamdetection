@@ -1,0 +1,2 @@
+C:\Users\Abhi\Documents\GitHub\cp-spam\spam\obj\Debug\SpamML.csproj.AssemblyReference.cache
+C:\Users\Abhi\Documents\GitHub\cp-spam\spam\obj\Debug\SpamML.csproj.SuggestedBindingRedirects.cache
